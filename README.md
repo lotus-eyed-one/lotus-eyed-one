@@ -264,15 +264,15 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 2, Verse 47**
+> 🪷 **Bhagavad Gita · Chapter 6, Verse 5**
 >
-> *कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।*
-> *मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥*
+> *उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।*
+> *आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥*
 >
-> You have the right to perform your prescribed duties,
-> but you are not entitled to the fruits of your actions.
-> Never consider yourself the cause of results,
-> and never be attached to not doing your duty.
+> Elevate yourself through the power of your mind,
+> and do not degrade yourself.
+> The mind is the friend of the conditioned soul,
+> and his enemy as well.
 <!-- SHLOKA_END -->
 
 <br/>
