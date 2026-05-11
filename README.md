@@ -264,15 +264,16 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 6, Verse 5**
+> 🪷 **Bhagavad Gita · Chapter 2, Verse 20**
 >
-> *उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।*
-> *आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥*
+> *न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।*
+> *अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥*
 >
-> Elevate yourself through the power of your mind,
-> and do not degrade yourself.
-> The mind is the friend of the conditioned soul,
-> and his enemy as well.
+> The soul is never born nor dies at any time.
+> It has not come into being, does not come into being,
+> and will not come into being. It is unborn, eternal,
+> ever-existing, and primeval.
+> It is not slain when the body is slain.
 <!-- SHLOKA_END -->
 
 <br/>
