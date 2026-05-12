@@ -264,16 +264,14 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 2, Verse 20**
+> 🪷 **Bhagavad Gita · Chapter 10, Verse 20**
 >
-> *न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।*
-> *अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥*
+> *अहमात्मा गुडाकेश सर्वभूताशयस्थितः।*
+> *अहमादिश्च मध्यं च भूतानामन्त एव च॥*
 >
-> The soul is never born nor dies at any time.
-> It has not come into being, does not come into being,
-> and will not come into being. It is unborn, eternal,
-> ever-existing, and primeval.
-> It is not slain when the body is slain.
+> I am the self seated in the hearts of all creatures.
+> I am the beginning, the middle,
+> and the end of all beings.
 <!-- SHLOKA_END -->
 
 <br/>
