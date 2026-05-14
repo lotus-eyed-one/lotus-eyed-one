@@ -264,15 +264,14 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 2, Verse 47**
+> 🪷 **Bhagavad Gita · Chapter 2, Verse 23**
 >
-> *कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।*
-> *मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥*
+> *नैनं छिद्रन्ति शस्त्राणि नैनं दहति पावकः।*
+> *न चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥*
 >
-> You have the right to perform your prescribed duties,
-> but you are not entitled to the fruits of your actions.
-> Never consider yourself the cause of results,
-> and never be attached to not doing your duty.
+> The soul can never be cut by any weapon,
+> nor burned by fire, nor moistened by water,
+> nor withered by the wind.
 <!-- SHLOKA_END -->
 
 <br/>
