@@ -264,14 +264,15 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 4, Verse 7**
+> 🪷 **Bhagavad Gita · Chapter 2, Verse 47**
 >
-> *यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।*
-> *अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥*
+> *कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।*
+> *मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥*
 >
-> Whenever there is a decline in righteousness
-> and a rise in unrighteousness, O Arjuna,
-> at that time I manifest myself on earth.
+> You have the right to perform your prescribed duties,
+> but you are not entitled to the fruits of your actions.
+> Never consider yourself the cause of results,
+> and never be attached to not doing your duty.
 <!-- SHLOKA_END -->
 
 <br/>
