@@ -264,15 +264,15 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 2, Verse 47**
+> 🪷 **Bhagavad Gita · Chapter 18, Verse 66**
 >
-> *कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।*
-> *मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥*
+> *सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।*
+> *अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥*
 >
-> You have the right to perform your prescribed duties,
-> but you are not entitled to the fruits of your actions.
-> Never consider yourself the cause of results,
-> and never be attached to not doing your duty.
+> Abandon all varieties of dharma and
+> just surrender unto me alone.
+> I shall deliver you from all sinful reactions.
+> Do not fear.
 <!-- SHLOKA_END -->
 
 <br/>
