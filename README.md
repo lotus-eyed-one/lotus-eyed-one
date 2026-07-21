@@ -264,15 +264,14 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 18, Verse 66**
+> 🪷 **Bhagavad Gita · Chapter 10, Verse 20**
 >
-> *सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।*
-> *अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥*
+> *अहमात्मा गुडाकेश सर्वभूताशयस्थितः।*
+> *अहमादिश्च मध्यं च भूतानामन्त एव च॥*
 >
-> Abandon all varieties of dharma and
-> just surrender unto me alone.
-> I shall deliver you from all sinful reactions.
-> Do not fear.
+> I am the self seated in the hearts of all creatures.
+> I am the beginning, the middle,
+> and the end of all beings.
 <!-- SHLOKA_END -->
 
 <br/>
