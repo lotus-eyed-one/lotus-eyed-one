@@ -264,16 +264,14 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 2, Verse 20**
+> 🪷 **Bhagavad Gita · Chapter 4, Verse 7**
 >
-> *न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।*
-> *अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥*
+> *यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।*
+> *अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥*
 >
-> The soul is never born nor dies at any time.
-> It has not come into being, does not come into being,
-> and will not come into being. It is unborn, eternal,
-> ever-existing, and primeval.
-> It is not slain when the body is slain.
+> Whenever there is a decline in righteousness
+> and a rise in unrighteousness, O Arjuna,
+> at that time I manifest myself on earth.
 <!-- SHLOKA_END -->
 
 <br/>
