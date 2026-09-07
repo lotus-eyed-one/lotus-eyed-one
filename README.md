@@ -264,15 +264,15 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 6, Verse 5**
+> 🪷 **Bhagavad Gita · Chapter 18, Verse 66**
 >
-> *उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।*
-> *आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥*
+> *सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।*
+> *अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥*
 >
-> Elevate yourself through the power of your mind,
-> and do not degrade yourself.
-> The mind is the friend of the conditioned soul,
-> and his enemy as well.
+> Abandon all varieties of dharma and
+> just surrender unto me alone.
+> I shall deliver you from all sinful reactions.
+> Do not fear.
 <!-- SHLOKA_END -->
 
 <br/>
