@@ -264,16 +264,14 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 2, Verse 20**
+> 🪷 **Bhagavad Gita · Chapter 2, Verse 23**
 >
-> *न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।*
-> *अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥*
+> *नैनं छिद्रन्ति शस्त्राणि नैनं दहति पावकः।*
+> *न चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥*
 >
-> The soul is never born nor dies at any time.
-> It has not come into being, does not come into being,
-> and will not come into being. It is unborn, eternal,
-> ever-existing, and primeval.
-> It is not slain when the body is slain.
+> The soul can never be cut by any weapon,
+> nor burned by fire, nor moistened by water,
+> nor withered by the wind.
 <!-- SHLOKA_END -->
 
 <br/>
