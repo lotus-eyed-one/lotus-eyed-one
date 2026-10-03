@@ -264,14 +264,14 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 2, Verse 23**
+> 🪷 **Bhagavad Gita · Chapter 4, Verse 7**
 >
-> *नैनं छिद्रन्ति शस्त्राणि नैनं दहति पावकः।*
-> *न चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥*
+> *यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।*
+> *अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥*
 >
-> The soul can never be cut by any weapon,
-> nor burned by fire, nor moistened by water,
-> nor withered by the wind.
+> Whenever there is a decline in righteousness
+> and a rise in unrighteousness, O Arjuna,
+> at that time I manifest myself on earth.
 <!-- SHLOKA_END -->
 
 <br/>
