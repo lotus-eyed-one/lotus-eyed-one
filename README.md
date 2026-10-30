@@ -264,15 +264,14 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 6, Verse 5**
+> 🪷 **Bhagavad Gita · Chapter 2, Verse 23**
 >
-> *उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।*
-> *आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥*
+> *नैनं छिद्रन्ति शस्त्राणि नैनं दहति पावकः।*
+> *न चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥*
 >
-> Elevate yourself through the power of your mind,
-> and do not degrade yourself.
-> The mind is the friend of the conditioned soul,
-> and his enemy as well.
+> The soul can never be cut by any weapon,
+> nor burned by fire, nor moistened by water,
+> nor withered by the wind.
 <!-- SHLOKA_END -->
 
 <br/>
