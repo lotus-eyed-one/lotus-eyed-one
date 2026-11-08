@@ -264,14 +264,15 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 4, Verse 7**
+> 🪷 **Bhagavad Gita · Chapter 6, Verse 5**
 >
-> *यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।*
-> *अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥*
+> *उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।*
+> *आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥*
 >
-> Whenever there is a decline in righteousness
-> and a rise in unrighteousness, O Arjuna,
-> at that time I manifest myself on earth.
+> Elevate yourself through the power of your mind,
+> and do not degrade yourself.
+> The mind is the friend of the conditioned soul,
+> and his enemy as well.
 <!-- SHLOKA_END -->
 
 <br/>
