@@ -264,14 +264,15 @@ const the_lust = {
 <br/>
 
 <!-- SHLOKA_START -->
-> 🪷 **Bhagavad Gita · Chapter 10, Verse 20**
+> 🪷 **Bhagavad Gita · Chapter 2, Verse 47**
 >
-> *अहमात्मा गुडाकेश सर्वभूताशयस्थितः।*
-> *अहमादिश्च मध्यं च भूतानामन्त एव च॥*
+> *कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।*
+> *मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥*
 >
-> I am the self seated in the hearts of all creatures.
-> I am the beginning, the middle,
-> and the end of all beings.
+> You have the right to perform your prescribed duties,
+> but you are not entitled to the fruits of your actions.
+> Never consider yourself the cause of results,
+> and never be attached to not doing your duty.
 <!-- SHLOKA_END -->
 
 <br/>
